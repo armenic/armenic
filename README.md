@@ -2,7 +2,7 @@
 - 👀 I’m interested in React JS, Python and R projects
 - 🌱 I’m currently learning Advanced HTML, CSS and JS
 - 💞️ I’m looking to collaborate on an open-source project
-- 📫 Ping me in this rep please
+- 📫 Please create an issue in this repo to reach me
 
 <!---
 armenic/armenic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
